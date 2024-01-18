@@ -9,3 +9,5 @@ you cannot use connect flash without express session
 ## flash message allows us to use data of one route int another route
 
 - exg:- taking error from /login page to another /error page and showing alert box there
+
+# mongoose
